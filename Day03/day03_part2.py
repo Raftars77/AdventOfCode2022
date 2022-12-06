@@ -1,5 +1,4 @@
 from string import ascii_letters
-import numpy as np
 
 input = open("input","r").read().rstrip().split('\n')
 
