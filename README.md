@@ -20,6 +20,7 @@ Raftars77
 | [Day 4](https://adventofcode.com/2022/day/4) | ⭐ | ⭐ |
 | [Day 5](https://adventofcode.com/2022/day/5) | ⭐ | ⭐ |
 | [Day 6](https://adventofcode.com/2022/day/6) | ⭐ | ⭐ |
+| [Day 7](https://adventofcode.com/2022/day/7) | ⭐ | ⭐ |
 
 
 
