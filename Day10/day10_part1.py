@@ -1,13 +1,8 @@
 with open("input","r") as file:
-    input = file.read().strip().split('\n')
-
-simulation = []
-for cycle in input:
-    if 'addx' in cycle:
-        name,x = cycle.split(' ')
-        simulation.append(name)
-        simulation.append(x)
-    else: simulation.append(cycle)
+    input = file.read().strip().split(' ')
+#making command addx 15 split into two elements of the list simulates 
+#the 2 cycles needed as we only compute numeric elements in the list
+simulation = input = [element for pair in input for element in pair.split('\n')]
 
 x,i = 1,1
 cycles = [20,60,100,140,180,220]
