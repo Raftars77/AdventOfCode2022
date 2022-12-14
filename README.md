@@ -26,3 +26,4 @@ Raftars77
 | [Day 10](https://adventofcode.com/2022/day/10) | ⭐ | ⭐ |
 | [Day 11](https://adventofcode.com/2022/day/11) | ⭐ | ⭐ |
 | [Day 12](https://adventofcode.com/2022/day/12) | ⭐ | ⭐ |
+| [Day 13](https://adventofcode.com/2022/day/13) | ⭐ | ⭐ |
