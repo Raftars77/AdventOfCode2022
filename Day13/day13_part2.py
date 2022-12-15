@@ -4,6 +4,7 @@ pairs = [eval(list_pair) for list_pairs in input for list_pair in list_pairs.spl
 div1, div2 = [[2]], [[6]]
 pairs.extend((div1, div2)) 
 
+#Returns 0 if equal, -n if lower and +n if greater
 def right_order(n1,n2):
     if type(n1) == int and type(n2) == int: return n2-n1
     if type(n1) != list : n1=[n1]
